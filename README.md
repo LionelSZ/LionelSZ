@@ -20,7 +20,7 @@ I am **[LIONELSZ]**, a front-end developer who loves technology. I am passionate
 - **Toolchain**:
 - Vite / Vite (module packaging)
 - Git (version control)
-- 
+
 - ***
 
 <!--
