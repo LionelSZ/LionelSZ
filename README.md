@@ -7,7 +7,8 @@ I am **[LIONELSZ]**, a front-end developer who loves technology. I am passionate
 - **Position**: Front-end Developer
 - **Working Experience**: 4 years
 - **Location**: [sh/China]
-- 
+
+
 ## 🔧 Skill Stack
 
 - **HTML5/CSS3**: Proficient in semantic HTML and responsive CSS design.
@@ -15,12 +16,11 @@ I am **[LIONELSZ]**, a front-end developer who loves technology. I am passionate
 - **TypeScript**: Use TypeScript to write type-safe code to improve code quality and maintainability.
 - **Frameworks and libraries**:
 - React.js / Vue.js / Angular
-- Next.js / Nuxt.js (server-side rendering)
+- Cesium.js / Three.js / Arcigs for javaScript / Leaflet
 - **Toolchain**:
 - Vite / Vite (module packaging)
 - Git (version control)
-- Docker (containerized deployment)
-
+- 
 - ***
 
 <!--
