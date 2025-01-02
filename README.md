@@ -12,12 +12,11 @@ I am **[LIONELSZ]**, a front-end developer who loves technology. I am passionate
 ## 🔧 Skill Stack
 
 - **HTML5/CSS3**: Proficient in semantic HTML and responsive CSS design.
-- **JavaScript (ES6+)**: Deeply understand the core concepts of JavaScript and be proficient in using modern JavaScript features.
 - **Frameworks and libraries**:
-- React.js / Vue.js / Angular
-- Cesium.js / Three.js / Arcigs for javaScript / Leaflet
+- **React.js / Vue.js / Angular**
+- **Cesium.js / Three.js / Arcigs for javaScript / Leaflet**
 - **Toolchain**:
-- Webpack / Vite (module packaging)
+- **Webpack / Vite (module packaging)**
 
 <!--
 **LionelSZ/LionelSZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
