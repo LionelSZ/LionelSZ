@@ -1,6 +1,6 @@
 # 🌟 Welcome to my GitHub profile
 
-I am **[LIONELSZ]**, a front-end developer who loves technology. I am passionate about building user-friendly and efficient web applications, and constantly exploring new technologies to improve user experience. Here you will find some open source projects and personal works I am involved in.
+I am **[LEO]**, a front-end developer who loves technology. I am passionate about building user-friendly and efficient web applications, and constantly exploring new technologies to improve user experience. Here you will find some open source projects and personal works I am involved in.
 
 ## 💼 Career Background
 
