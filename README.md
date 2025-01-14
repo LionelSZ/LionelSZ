@@ -8,23 +8,15 @@
 - **Working Experience**: four years
 - **Location**: [SH/China]
 
-
 <details>
 <summary>
-## 🔧 Skill Stack
+  Details
 </summary>
-  
+## 🔧 Skill Stack
 - **HTML5/CSS3**: Proficient in semantic HTML and responsive CSS design.
-- 
 - **Frameworks and libraries**:
-- 
 - **React.js / Vue.js / Angular**
-- 
 - **Cesium.js / Three.js / Arcigs for javaScript / Leaflet**
-- 
 - **Toolchain**:
-- 
 - **Webpack / Vite (module packaging)**
-
-
 </details>
