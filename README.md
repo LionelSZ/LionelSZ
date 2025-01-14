@@ -4,19 +4,18 @@
 
 ### 💼 Career Background
 
-- **Position**: front-end-developer
-- **Working Experience**: four years
+- **Position**: Front-end Developer
+- **Working Experience**: Four years
 - **Location**: [SH/China]
 
 <details>
-<summary>
-  Details
-</summary>
-## 🔧 Skill Stack
-- **HTML5/CSS3**: Proficient in semantic HTML and responsive CSS design.
-- **Frameworks and libraries**:
-- **React.js / Vue.js / Angular**
-- **Cesium.js / Three.js / Arcigs for javaScript / Leaflet**
-- **Toolchain**:
-- **Webpack / Vite (module packaging)**
+  <summary>Details</summary>
+
+  ### 🔧 Skill Stack
+  - **HTML5/CSS3**: Proficient in semantic HTML and responsive CSS design.
+  - **Frameworks and Libraries**:
+    - React.js / Vue.js / Angular
+    - Cesium.js / Three.js / Arcgis for JavaScript / Leaflet
+  - **Toolchain**:
+    - Webpack / Vite (module packaging)
 </details>
