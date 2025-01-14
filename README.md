@@ -1,4 +1,6 @@
-# 🌟 Welcome to my GitHub profile
+<a href="https://passer-by.com/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=LionelSz&show_icons=true&count_private=false&theme=vue-dark" /></a>
+
+
 
 I am **[LEO]**, a front-end developer who loves technology. I am passionate about building user-friendly and efficient web applications, and constantly exploring new technologies to improve user experience. Here you will find some open source projects and personal works I am involved in.
 
