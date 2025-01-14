@@ -9,8 +9,8 @@
 - **Location**: [SH/China]
 
 <details>
-  <summary>**Details**</summary>
-
+  <summary><strong>Details</strong></summary>
+  
   ### 🔧 Skill Stack
   - **HTML5/CSS3**: Proficient in semantic HTML and responsive CSS design.
   - **Frameworks and Libraries**:
