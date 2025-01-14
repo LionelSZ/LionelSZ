@@ -9,9 +9,9 @@
 - **Location**: [SH/China]
 
 <details>
-  <h3><summary>Details</summary></h3>
+  <summary><strong style="font-size: 24px;">Details</strong></summary>
   
-  ### 🔧 Skill Stack
+  ## 🔧 Skill Stack
   - **HTML5/CSS3**: Proficient in semantic HTML and responsive CSS design.
   - **Frameworks and Libraries**:
     - React.js / Vue.js / Angular
